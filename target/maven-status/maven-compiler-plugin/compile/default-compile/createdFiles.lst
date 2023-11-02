@@ -5,6 +5,7 @@ eiu\cit\netprog\OReillyByName.class
 eiu\cit\netprog\Play_Music$SimpleAudioPlayer.class
 eiu\cit\netprog\Download_Play_EX.class
 eiu\cit\netprog\Play_Music.class
+eiu\cit\netprog\Play_Online.class
 eiu\cit\netprog\download_music.class
 eiu\cit\netprog\music_play.class
 eiu\cit\netprog\changeIDtoHostName.class
